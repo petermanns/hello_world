@@ -1,7 +1,7 @@
 # file main.c
-void main (voie)
+void main (void)
 {
-print("hellow world!");
+print("Bonjour world!");
 
 for( , , );
 }
